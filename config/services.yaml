@@ -1,0 +1,111 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/services
+#env_file: ".env"
+
+- Machine Information:
+    - Machine Info:
+        icon: glances-light.png
+        widget:
+            type: glances
+            url: "{{HOMEPAGE_VAR_GLANCES_URL}}"
+            username: "{{HOMEPAGE_VAR_GLANCES_USERNAME}}"
+            password: "{{HOMEPAGE_VAR_GLANCES_SECRET}}"
+            version: 4
+            metric: info
+
+    - CPU Usage:  
+        icon: amd-light.png
+        widget:
+            type: glances
+            url: "{{HOMEPAGE_VAR_GLANCES_URL}}"
+            username: "{{HOMEPAGE_VAR_GLANCES_USERNAME}}"
+            password: "{{HOMEPAGE_VAR_GLANCES_SECRET}}"
+            version: 4
+            metric: cpu
+
+    - Memory Usage:
+        widget:
+            type: glances
+            url: "{{HOMEPAGE_VAR_GLANCES_URL}}"
+            username: "{{HOMEPAGE_VAR_GLANCES_USERNAME}}"
+            password: "{{HOMEPAGE_VAR_GLANCES_SECRET}}"
+            metric: memory
+            version: 4
+
+    - Network Usage:
+        widget:
+            type: glances
+            url: "{{HOMEPAGE_VAR_GLANCES_URL}}"
+            username: "{{HOMEPAGE_VAR_GLANCES_USERNAME}}"
+            password: "{{HOMEPAGE_VAR_GLANCES_SECRET}}"
+            metric: network:vmbr0
+            version: 4
+    - Computer Temperature:
+        widget:
+            type: glances
+            url: "{{HOMEPAGE_VAR_GLANCES_URL}}"
+            username: "{{HOMEPAGE_VAR_GLANCES_USERNAME}}"
+            password: "{{HOMEPAGE_VAR_GLANCES_SECRET}}"
+            version: 4
+            metric: sensor:Sensor 1
+    - Processes:
+        widget:
+            type: glances
+            url: "{{HOMEPAGE_VAR_GLANCES_URL}}"
+            username: "{{HOMEPAGE_VAR_GLANCES_USERNAME}}"
+            password: "{{HOMEPAGE_VAR_GLANCES_SECRET}}"
+            version: 4
+            metric: process
+
+- Calendar:
+    - Calendar:
+        widget:
+            type: calendar
+            firstDayInWeek: sunday
+            showTime: true
+            timezone: America/Los_Angeles
+            integrations:
+                - type: ical
+                  url: "{{HOMEPAGE_VAR_CALENDAR_URL}}"
+                  color: green
+
+            # Holiday ical
+                # - type: ical
+                #   url: https://calendar.google.com/calendar/ical/en.canadian%23holiday%40group.v.calendar.google.com/public/basic.ics
+                #   color: green
+    - Agenda:
+        widget:
+            type: calendar
+            view: agenda
+            showTime: true 
+            previousDays: 3
+            integrations: 
+                - type: ical
+                  url: "{{HOMEPAGE_VAR_CALENDAR_URL}}"
+                  color: green
+
+- Weather:
+    - Coquitlam Weather:
+        - openmeteo:
+            label: Coquitlam
+            #timezone: America/Los_Angeles
+            latitude: 49.2846
+            longitude: -122.7822
+- Virtualization:
+    - Proxmox:
+        icon: proxmox.png
+        href: "{{HOMEPAGE_VAR_PROXMOX_URL}}"
+        description: Hypervisor Hosting VMs
+        siteMonitor: "{{HOMEPAGE_VAR_PROXMOX_URL}}"
+        statusStyle: "dot"
+        widget:
+            type: proxmox
+            url: "{{HOMEPAGE_VAR_PROXMOX_URL}}"
+            username: "{{HOMEPAGE_VAR_PROXMOX_USERNAME}}"
+            password: "{{HOMEPAGE_VAR_PROXMOX_SECRET}}"
+            
+
+
+
+

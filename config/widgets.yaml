@@ -1,0 +1,39 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/service-widgets
+
+
+- logo:
+    icon: /icons/koala.png
+
+- search:
+    provider: google
+    target: _blank
+
+- datetime:
+    text_size: xl
+    format:
+        dateStyle: long
+        timeStyle: short
+        hour12: true
+
+- greeting:
+    text_size: xl
+    text: Hello Jeff
+
+- openmeteo:
+    label: Coquitlam
+    latitude: 49.2846
+    longitude: -122.7822
+    units: metric
+
+
+# For top search bar sys info
+# - glances:
+#     url: "{{HOMEPAGE_VAR_GLANCES_URL}}"
+#     username: "{{HOMEPAGE_VAR_GLANCES_USERNAME}}"
+#     password: "{{HOMEPAGE_VAR_GLANCES_SECRET}}"
+#     version: 4
+#     cpu: true
+#     mem: true
+

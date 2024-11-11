@@ -1,0 +1,2827 @@
+[2024-11-11T01:35:34.759Z] info: docker.yaml was copied to the config folder
+[2024-11-11T01:35:34.760Z] info: services.yaml was copied to the config folder
+[2024-11-11T01:35:34.760Z] info: bookmarks.yaml was copied to the config folder
+[2024-11-11T01:35:34.765Z] info: widgets.yaml was copied to the config folder
+[2024-11-11T01:35:34.765Z] info: custom.css was copied to the config folder
+[2024-11-11T01:35:34.765Z] info: custom.js was copied to the config folder
+[2024-11-11T01:35:34.784Z] info: kubernetes.yaml was copied to the config folder
+[2024-11-11T01:35:39.840Z] error: undefined
+[2024-11-11T01:35:45.369Z] error: undefined
+[2024-11-11T01:36:00.384Z] error: undefined
+[2024-11-11T01:36:21.896Z] error: undefined
+[2024-11-11T01:36:31.313Z] error: undefined
+[2024-11-11T04:06:52.052Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T04:06:52.053Z] error: YAMLException: end of the stream or a document separator is expected (5:1)
+
+ 2 | # For configuration options and  ...
+ 3 | # https://gethomepage.dev/config ...
+ 4 | env_file: .env
+ 5 | - Virtualization:
+-----^
+ 6 |     - Proxmox:
+ 7 |         icon: proxmox.png
+[2024-11-11T04:06:52.059Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T04:06:52.059Z] error: YAMLException: end of the stream or a document separator is expected (5:1)
+
+ 2 | # For configuration options and  ...
+ 3 | # https://gethomepage.dev/config ...
+ 4 | env_file: .env
+ 5 | - Virtualization:
+-----^
+ 6 |     - Proxmox:
+ 7 |         icon: proxmox.png
+[2024-11-11T04:06:52.130Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T04:06:52.130Z] error: YAMLException: end of the stream or a document separator is expected (5:1)
+
+ 2 | # For configuration options and  ...
+ 3 | # https://gethomepage.dev/config ...
+ 4 | env_file: .env
+ 5 | - Virtualization:
+-----^
+ 6 |     - Proxmox:
+ 7 |         icon: proxmox.png
+[2024-11-11T04:06:58.554Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T04:06:58.554Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-11-11T04:06:58.557Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T04:06:58.557Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-11-11T04:06:58.650Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T04:06:58.650Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-11-11T04:06:58.969Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T04:06:58.969Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-11-11T04:06:59.430Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T04:06:59.431Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-11-11T04:06:59.932Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T04:06:59.932Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-11-11T04:07:48.386Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T04:07:48.386Z] error: YAMLException: end of the stream or a document separator is expected (5:1)
+
+ 2 | # For configuration options and  ...
+ 3 | # https://gethomepage.dev/config ...
+ 4 | env_file: ".env"
+ 5 | - Virtualization:
+-----^
+ 6 |     - Proxmox:
+ 7 |         icon: proxmox.png
+[2024-11-11T04:07:48.393Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T04:07:48.393Z] error: YAMLException: end of the stream or a document separator is expected (5:1)
+
+ 2 | # For configuration options and  ...
+ 3 | # https://gethomepage.dev/config ...
+ 4 | env_file: ".env"
+ 5 | - Virtualization:
+-----^
+ 6 |     - Proxmox:
+ 7 |         icon: proxmox.png
+[2024-11-11T04:07:48.481Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T04:07:48.481Z] error: YAMLException: end of the stream or a document separator is expected (5:1)
+
+ 2 | # For configuration options and  ...
+ 3 | # https://gethomepage.dev/config ...
+ 4 | env_file: ".env"
+ 5 | - Virtualization:
+-----^
+ 6 |     - Proxmox:
+ 7 |         icon: proxmox.png
+[2024-11-11T04:07:48.800Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T04:07:48.800Z] error: YAMLException: end of the stream or a document separator is expected (5:1)
+
+ 2 | # For configuration options and  ...
+ 3 | # https://gethomepage.dev/config ...
+ 4 | env_file: ".env"
+ 5 | - Virtualization:
+-----^
+ 6 |     - Proxmox:
+ 7 |         icon: proxmox.png
+[2024-11-11T04:07:49.207Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T04:07:49.207Z] error: YAMLException: end of the stream or a document separator is expected (5:1)
+
+ 2 | # For configuration options and  ...
+ 3 | # https://gethomepage.dev/config ...
+ 4 | env_file: ".env"
+ 5 | - Virtualization:
+-----^
+ 6 |     - Proxmox:
+ 7 |         icon: proxmox.png
+[2024-11-11T04:07:49.491Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T04:07:49.491Z] error: YAMLException: end of the stream or a document separator is expected (5:1)
+
+ 2 | # For configuration options and  ...
+ 3 | # https://gethomepage.dev/config ...
+ 4 | env_file: ".env"
+ 5 | - Virtualization:
+-----^
+ 6 |     - Proxmox:
+ 7 |         icon: proxmox.png
+[2024-11-11T04:07:49.733Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T04:07:49.733Z] error: YAMLException: end of the stream or a document separator is expected (5:1)
+
+ 2 | # For configuration options and  ...
+ 3 | # https://gethomepage.dev/config ...
+ 4 | env_file: ".env"
+ 5 | - Virtualization:
+-----^
+ 6 |     - Proxmox:
+ 7 |         icon: proxmox.png
+[2024-11-11T04:07:50.921Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T04:07:50.921Z] error: YAMLException: end of the stream or a document separator is expected (5:1)
+
+ 2 | # For configuration options and  ...
+ 3 | # https://gethomepage.dev/config ...
+ 4 | env_file: ".env"
+ 5 | - Virtualization:
+-----^
+ 6 |     - Proxmox:
+ 7 |         icon: proxmox.png
+[2024-11-11T04:26:30.920Z] error: <httpProxy> Error calling http://10.0.0.103:8006/api2/json/cluster/resources...
+[2024-11-11T04:26:30.923Z] error: <httpProxy> [
+  500,
+  Error [ERR_FR_REDIRECTION_FAILURE]: Redirected request failed: Protocol "https:" not supported. Expected "http:"
+      at RedirectableRequest._onNativeResponse (/app/node_modules/.pnpm/follow-redirects@1.15.9/node_modules/follow-redirects/index.js:106:17)
+      at Object.onceWrapper (node:events:632:26)
+      ... 2 lines matching cause stack trace ...
+      at HTTPParser.parserOnHeadersComplete (node:_http_common:119:17)
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10) {
+    cause: TypeError [ERR_INVALID_PROTOCOL]: Protocol "https:" not supported. Expected "http:"
+        at new NodeError (node:internal/errors:405:5)
+        at new ClientRequest (node:_http_client:188:11)
+        at Object.request (node:https:366:10)
+        at RedirectableRequest._performRequest (/app/node_modules/.pnpm/follow-redirects@1.15.9/node_modules/follow-redirects/index.js:337:24)
+        at RedirectableRequest._processResponse (/app/node_modules/.pnpm/follow-redirects@1.15.9/node_modules/follow-redirects/index.js:494:8)
+        at RedirectableRequest._onNativeResponse (/app/node_modules/.pnpm/follow-redirects@1.15.9/node_modules/follow-redirects/index.js:102:12)
+        at Object.onceWrapper (node:events:632:26)
+        at ClientRequest.emit (node:events:517:28)
+        at HTTPParser.parserOnIncomingClient [as onIncoming] (node:_http_client:700:27)
+        at HTTPParser.parserOnHeadersComplete (node:_http_common:119:17) {
+      code: 'ERR_INVALID_PROTOCOL'
+    },
+    code: 'ERR_FR_REDIRECTION_FAILURE'
+  }
+]
+[2024-11-11T04:26:30.923Z] error: <credentialedProxyHandler> HTTP Error 500 calling http://10.0.0.103:8006/api2/json/cluster/resources
+[2024-11-11T04:27:54.712Z] error: <httpProxy> Error calling http://10.0.0.103:8006/api2/json/cluster/resources...
+[2024-11-11T04:27:54.715Z] error: <httpProxy> [
+  500,
+  Error [ERR_FR_REDIRECTION_FAILURE]: Redirected request failed: Protocol "https:" not supported. Expected "http:"
+      at RedirectableRequest._onNativeResponse (/app/node_modules/.pnpm/follow-redirects@1.15.9/node_modules/follow-redirects/index.js:106:17)
+      at Object.onceWrapper (node:events:632:26)
+      ... 2 lines matching cause stack trace ...
+      at HTTPParser.parserOnHeadersComplete (node:_http_common:119:17)
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10) {
+    cause: TypeError [ERR_INVALID_PROTOCOL]: Protocol "https:" not supported. Expected "http:"
+        at new NodeError (node:internal/errors:405:5)
+        at new ClientRequest (node:_http_client:188:11)
+        at Object.request (node:https:366:10)
+        at RedirectableRequest._performRequest (/app/node_modules/.pnpm/follow-redirects@1.15.9/node_modules/follow-redirects/index.js:337:24)
+        at RedirectableRequest._processResponse (/app/node_modules/.pnpm/follow-redirects@1.15.9/node_modules/follow-redirects/index.js:494:8)
+        at RedirectableRequest._onNativeResponse (/app/node_modules/.pnpm/follow-redirects@1.15.9/node_modules/follow-redirects/index.js:102:12)
+        at Object.onceWrapper (node:events:632:26)
+        at ClientRequest.emit (node:events:517:28)
+        at HTTPParser.parserOnIncomingClient [as onIncoming] (node:_http_client:700:27)
+        at HTTPParser.parserOnHeadersComplete (node:_http_common:119:17) {
+      code: 'ERR_INVALID_PROTOCOL'
+    },
+    code: 'ERR_FR_REDIRECTION_FAILURE'
+  }
+]
+[2024-11-11T04:27:54.716Z] error: <credentialedProxyHandler> HTTP Error 500 calling http://10.0.0.103:8006/api2/json/cluster/resources
+[2024-11-11T04:28:47.276Z] error: <httpProxy> Error calling http://10.0.0.103:8006/api2/json/cluster/resources...
+[2024-11-11T04:28:47.277Z] error: <httpProxy> [
+  500,
+  Error [ERR_FR_REDIRECTION_FAILURE]: Redirected request failed: Protocol "https:" not supported. Expected "http:"
+      at RedirectableRequest._onNativeResponse (/app/node_modules/.pnpm/follow-redirects@1.15.9/node_modules/follow-redirects/index.js:106:17)
+      at Object.onceWrapper (node:events:632:26)
+      ... 2 lines matching cause stack trace ...
+      at HTTPParser.parserOnHeadersComplete (node:_http_common:119:17)
+      at Socket.socketOnData (node:_http_client:541:22)
+      at Socket.emit (node:events:517:28)
+      at addChunk (node:internal/streams/readable:368:12)
+      at readableAddChunk (node:internal/streams/readable:341:9)
+      at Readable.push (node:internal/streams/readable:278:10) {
+    cause: TypeError [ERR_INVALID_PROTOCOL]: Protocol "https:" not supported. Expected "http:"
+        at new NodeError (node:internal/errors:405:5)
+        at new ClientRequest (node:_http_client:188:11)
+        at Object.request (node:https:366:10)
+        at RedirectableRequest._performRequest (/app/node_modules/.pnpm/follow-redirects@1.15.9/node_modules/follow-redirects/index.js:337:24)
+        at RedirectableRequest._processResponse (/app/node_modules/.pnpm/follow-redirects@1.15.9/node_modules/follow-redirects/index.js:494:8)
+        at RedirectableRequest._onNativeResponse (/app/node_modules/.pnpm/follow-redirects@1.15.9/node_modules/follow-redirects/index.js:102:12)
+        at Object.onceWrapper (node:events:632:26)
+        at ClientRequest.emit (node:events:517:28)
+        at HTTPParser.parserOnIncomingClient [as onIncoming] (node:_http_client:700:27)
+        at HTTPParser.parserOnHeadersComplete (node:_http_common:119:17) {
+      code: 'ERR_INVALID_PROTOCOL'
+    },
+    code: 'ERR_FR_REDIRECTION_FAILURE'
+  }
+]
+[2024-11-11T04:28:47.277Z] error: <credentialedProxyHandler> HTTP Error 500 calling http://10.0.0.103:8006/api2/json/cluster/resources
+[2024-11-11T04:39:36.079Z] error: <glances> HTTP 501 getting data from glances API. Data: 
+[2024-11-11T04:39:37.273Z] error: <glances> HTTP 501 getting data from glances API. Data: 
+[2024-11-11T04:39:37.877Z] error: <glances> HTTP 501 getting data from glances API. Data: 
+[2024-11-11T04:39:40.875Z] error: <glances> HTTP 501 getting data from glances API. Data: 
+[2024-11-11T05:01:31.165Z] error: <httpProxy> Error calling https://10.0.0.103:61208/api/3/cpu...
+[2024-11-11T05:01:31.168Z] error: <httpProxy> [
+  500,
+  Error: write EPROTO D8F93591FB7C0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:354:
+  
+      at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16) {
+    errno: -71,
+    code: 'EPROTO',
+    syscall: 'write'
+  }
+]
+[2024-11-11T05:01:31.168Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2024-11-11T05:01:31.308Z] error: <httpProxy> Error calling https://10.0.0.103:61208/api/3/cpu...
+[2024-11-11T05:01:31.308Z] error: <httpProxy> [
+  500,
+  Error: write EPROTO D8F93591FB7C0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:354:
+  
+      at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16) {
+    errno: -71,
+    code: 'EPROTO',
+    syscall: 'write'
+  }
+]
+[2024-11-11T05:01:31.309Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2024-11-11T05:01:31.801Z] error: <httpProxy> Error calling https://10.0.0.103:61208/api/3/cpu...
+[2024-11-11T05:01:31.801Z] error: <httpProxy> [
+  500,
+  Error: write EPROTO D8F93591FB7C0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:354:
+  
+      at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16) {
+    errno: -71,
+    code: 'EPROTO',
+    syscall: 'write'
+  }
+]
+[2024-11-11T05:01:31.801Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2024-11-11T05:01:33.821Z] error: <httpProxy> Error calling https://10.0.0.103:61208/api/3/cpu...
+[2024-11-11T05:01:33.821Z] error: <httpProxy> [
+  500,
+  Error: write EPROTO D8F93591FB7C0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:354:
+  
+      at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16) {
+    errno: -71,
+    code: 'EPROTO',
+    syscall: 'write'
+  }
+]
+[2024-11-11T05:01:33.822Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2024-11-11T05:01:34.404Z] error: <httpProxy> Error calling https://10.0.0.103:61208/api/3/cpu...
+[2024-11-11T05:01:34.405Z] error: <httpProxy> [
+  500,
+  Error: write EPROTO D8F93591FB7C0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:354:
+  
+      at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16) {
+    errno: -71,
+    code: 'EPROTO',
+    syscall: 'write'
+  }
+]
+[2024-11-11T05:01:34.405Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2024-11-11T05:01:36.570Z] error: <httpProxy> Error calling https://10.0.0.103:61208/api/3/cpu...
+[2024-11-11T05:01:36.570Z] error: <httpProxy> [
+  500,
+  Error: write EPROTO D8F93591FB7C0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:354:
+  
+      at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16) {
+    errno: -71,
+    code: 'EPROTO',
+    syscall: 'write'
+  }
+]
+[2024-11-11T05:01:36.570Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2024-11-11T05:01:36.883Z] error: <httpProxy> Error calling https://10.0.0.103:61208/api/3/cpu...
+[2024-11-11T05:01:36.883Z] error: <httpProxy> [
+  500,
+  Error: write EPROTO D8F93591FB7C0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:354:
+  
+      at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16) {
+    errno: -71,
+    code: 'EPROTO',
+    syscall: 'write'
+  }
+]
+[2024-11-11T05:01:36.883Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2024-11-11T05:01:37.073Z] error: <httpProxy> Error calling https://10.0.0.103:61208/api/3/cpu...
+[2024-11-11T05:01:37.074Z] error: <httpProxy> [
+  500,
+  Error: write EPROTO D8F93591FB7C0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:354:
+  
+      at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16) {
+    errno: -71,
+    code: 'EPROTO',
+    syscall: 'write'
+  }
+]
+[2024-11-11T05:01:37.074Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2024-11-11T05:01:37.244Z] error: <httpProxy> Error calling https://10.0.0.103:61208/api/3/cpu...
+[2024-11-11T05:01:37.245Z] error: <httpProxy> [
+  500,
+  Error: write EPROTO D8F93591FB7C0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:354:
+  
+      at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16) {
+    errno: -71,
+    code: 'EPROTO',
+    syscall: 'write'
+  }
+]
+[2024-11-11T05:01:37.245Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2024-11-11T05:01:37.394Z] error: <httpProxy> Error calling https://10.0.0.103:61208/api/3/cpu...
+[2024-11-11T05:01:37.395Z] error: <httpProxy> [
+  500,
+  Error: write EPROTO D8F93591FB7C0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:354:
+  
+      at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16) {
+    errno: -71,
+    code: 'EPROTO',
+    syscall: 'write'
+  }
+]
+[2024-11-11T05:01:37.395Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2024-11-11T05:01:37.559Z] error: <httpProxy> Error calling https://10.0.0.103:61208/api/3/cpu...
+[2024-11-11T05:01:37.559Z] error: <httpProxy> [
+  500,
+  Error: write EPROTO D8F93591FB7C0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:354:
+  
+      at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16) {
+    errno: -71,
+    code: 'EPROTO',
+    syscall: 'write'
+  }
+]
+[2024-11-11T05:01:37.559Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2024-11-11T05:01:37.820Z] error: <httpProxy> Error calling https://10.0.0.103:61208/api/3/cpu...
+[2024-11-11T05:01:37.820Z] error: <httpProxy> [
+  500,
+  Error: write EPROTO D8F93591FB7C0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:354:
+  
+      at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16) {
+    errno: -71,
+    code: 'EPROTO',
+    syscall: 'write'
+  }
+]
+[2024-11-11T05:01:37.820Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2024-11-11T05:01:38.005Z] error: <httpProxy> Error calling https://10.0.0.103:61208/api/3/cpu...
+[2024-11-11T05:01:38.006Z] error: <httpProxy> [
+  500,
+  Error: write EPROTO D8F93591FB7C0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:354:
+  
+      at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16) {
+    errno: -71,
+    code: 'EPROTO',
+    syscall: 'write'
+  }
+]
+[2024-11-11T05:01:38.006Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2024-11-11T05:06:12.877Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2024-11-11T05:06:13.081Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2024-11-11T05:08:30.848Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2024-11-11T05:08:58.081Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2024-11-11T05:09:00.254Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2024-11-11T05:09:03.287Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2024-11-11T05:09:06.309Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2024-11-11T05:09:09.328Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2024-11-11T05:09:17.690Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2024-11-11T05:09:20.711Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2024-11-11T05:10:12.917Z] error: undefined
+[2024-11-11T05:11:12.692Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2024-11-11T05:11:12.846Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2024-11-11T05:11:15.849Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2024-11-11T05:11:18.865Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2024-11-11T05:11:21.891Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2024-11-11T05:11:24.924Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2024-11-11T05:11:27.948Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2024-11-11T05:11:30.966Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2024-11-11T05:11:33.987Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2024-11-11T05:11:37.003Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2024-11-11T05:11:40.032Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2024-11-11T05:11:43.050Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2024-11-11T05:11:46.069Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2024-11-11T05:11:49.083Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2024-11-11T05:11:52.095Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2024-11-11T05:11:54.112Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2024-11-11T05:13:53.820Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2024-11-11T05:13:53.832Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2024-11-11T05:13:54.008Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2024-11-11T05:20:32.991Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2024-11-11T05:24:06.787Z] error: <servicesProxy> TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+    at /app/.next/server/chunks/3144.js:124:60
+    at Array.map (<anonymous>)
+    at servicesFromConfig (/app/.next/server/chunks/3144.js:122:34)
+    at async getServiceItem (/app/.next/server/chunks/3144.js:700:30)
+    at async getServiceWidget (/app/.next/server/chunks/3144.js:727:23)
+    at async handler (/app/.next/server/pages/api/services/proxy.js:408:27)
+    at async Object.apiResolver (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/api-utils/node.js:366:9)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:481:9)
+    at async Object.fn (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:741:37)
+    at async Router.execute (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/router.js:252:36)
+[2024-11-11T05:24:06.796Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T05:24:06.796Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-11-11T05:24:06.813Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T05:24:06.813Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-11-11T05:24:06.976Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T05:24:06.976Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-11-11T05:24:07.281Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T05:24:07.281Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-11-11T05:24:07.783Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T05:24:07.783Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-11-11T05:24:08.028Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T05:24:08.028Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-11-11T05:24:08.393Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T05:24:08.393Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-11-11T05:24:08.615Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T05:24:08.615Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-11-11T05:24:08.818Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T05:24:08.818Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-11-11T05:24:09.034Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T05:24:09.034Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-11-11T05:24:09.297Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T05:24:09.298Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-11-11T05:24:10.716Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T05:24:10.717Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-11-11T05:24:11.016Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T05:24:11.016Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-11-11T05:24:23.542Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T05:24:23.542Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-11-11T05:30:20.054Z] error: undefined
+[2024-11-11T05:30:20.061Z] error: undefined
+[2024-11-11T05:30:23.078Z] error: undefined
+[2024-11-11T05:30:23.079Z] error: undefined
+[2024-11-11T05:31:05.788Z] error: undefined
+[2024-11-11T05:31:05.793Z] error: undefined
+[2024-11-11T05:31:09.031Z] error: undefined
+[2024-11-11T05:31:09.032Z] error: undefined
+[2024-11-11T05:31:37.508Z] error: undefined
+[2024-11-11T05:31:37.515Z] error: undefined
+[2024-11-11T05:34:42.624Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T05:34:42.624Z] error: YAMLException: bad indentation of a mapping entry (9:9)
+
+  6 | - Machine Status:
+  7 |     - Glances:
+  8 |         icon: glances-light.png
+  9 |         - CPU Usage:
+--------------^
+ 10 |             widget:
+ 11 |                 type: glances
+[2024-11-11T05:34:42.701Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T05:34:42.701Z] error: YAMLException: bad indentation of a mapping entry (9:9)
+
+  6 | - Machine Status:
+  7 |     - Glances:
+  8 |         icon: glances-light.png
+  9 |         - CPU Usage:
+--------------^
+ 10 |             widget:
+ 11 |                 type: glances
+[2024-11-11T05:34:42.809Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T05:34:42.809Z] error: YAMLException: bad indentation of a mapping entry (9:9)
+
+  6 | - Machine Status:
+  7 |     - Glances:
+  8 |         icon: glances-light.png
+  9 |         - CPU Usage:
+--------------^
+ 10 |             widget:
+ 11 |                 type: glances
+[2024-11-11T05:34:43.480Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T05:34:43.480Z] error: YAMLException: bad indentation of a mapping entry (9:9)
+
+  6 | - Machine Status:
+  7 |     - Glances:
+  8 |         icon: glances-light.png
+  9 |         - CPU Usage:
+--------------^
+ 10 |             widget:
+ 11 |                 type: glances
+[2024-11-11T05:34:43.793Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T05:34:43.793Z] error: YAMLException: bad indentation of a mapping entry (9:9)
+
+  6 | - Machine Status:
+  7 |     - Glances:
+  8 |         icon: glances-light.png
+  9 |         - CPU Usage:
+--------------^
+ 10 |             widget:
+ 11 |                 type: glances
+[2024-11-11T05:34:43.970Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T05:34:43.970Z] error: YAMLException: bad indentation of a mapping entry (9:9)
+
+  6 | - Machine Status:
+  7 |     - Glances:
+  8 |         icon: glances-light.png
+  9 |         - CPU Usage:
+--------------^
+ 10 |             widget:
+ 11 |                 type: glances
+[2024-11-11T05:36:04.703Z] error: <servicesProxy> YAMLException: bad indentation of a mapping entry (9:5)
+
+  6 | - Machine Status:
+  7 |     # - Glances:
+  8 |     icon: glances-light.png
+  9 |     - CPU Usage:
+----------^
+ 10 |         widget:
+ 11 |             type: glances
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+    at readDocument (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2715:3)
+    at loadDocuments (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2778:5)
+    at Object.load$1 [as load] (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2804:19)
+    at servicesFromConfig (/app/.next/server/chunks/3144.js:115:68)
+[2024-11-11T05:36:05.894Z] error: <servicesProxy> YAMLException: bad indentation of a mapping entry (9:5)
+
+  6 | - Machine Status:
+  7 |     # - Glances:
+  8 |     icon: glances-light.png
+  9 |     - CPU Usage:
+----------^
+ 10 |         widget:
+ 11 |             type: glances
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+    at readDocument (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2715:3)
+    at loadDocuments (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2778:5)
+    at Object.load$1 [as load] (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2804:19)
+    at servicesFromConfig (/app/.next/server/chunks/3144.js:115:68)
+[2024-11-11T05:36:05.897Z] error: bad indentation of a mapping entry (9:5)
+
+  6 | - Machine Status:
+  7 |     # - Glances:
+  8 |     icon: glances-light.png
+  9 |     - CPU Usage:
+----------^
+ 10 |         widget:
+ 11 |             type: glances
+[2024-11-11T05:36:05.899Z] error: <servicesProxy> YAMLException: bad indentation of a mapping entry (9:5)
+
+  6 | - Machine Status:
+  7 |     # - Glances:
+  8 |     icon: glances-light.png
+  9 |     - CPU Usage:
+----------^
+ 10 |         widget:
+ 11 |             type: glances
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+    at readDocument (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2715:3)
+    at loadDocuments (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2778:5)
+    at Object.load$1 [as load] (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2804:19)
+    at servicesFromConfig (/app/.next/server/chunks/3144.js:115:68)
+[2024-11-11T05:36:05.904Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T05:36:05.904Z] error: YAMLException: bad indentation of a mapping entry (9:5)
+
+  6 | - Machine Status:
+  7 |     # - Glances:
+  8 |     icon: glances-light.png
+  9 |     - CPU Usage:
+----------^
+ 10 |         widget:
+ 11 |             type: glances
+[2024-11-11T05:36:05.905Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T05:36:05.905Z] error: YAMLException: bad indentation of a mapping entry (9:5)
+
+  6 | - Machine Status:
+  7 |     # - Glances:
+  8 |     icon: glances-light.png
+  9 |     - CPU Usage:
+----------^
+ 10 |         widget:
+ 11 |             type: glances
+[2024-11-11T05:36:05.976Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T05:36:05.976Z] error: YAMLException: bad indentation of a mapping entry (9:5)
+
+  6 | - Machine Status:
+  7 |     # - Glances:
+  8 |     icon: glances-light.png
+  9 |     - CPU Usage:
+----------^
+ 10 |         widget:
+ 11 |             type: glances
+[2024-11-11T05:36:06.261Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T05:36:06.262Z] error: YAMLException: bad indentation of a mapping entry (9:5)
+
+  6 | - Machine Status:
+  7 |     # - Glances:
+  8 |     icon: glances-light.png
+  9 |     - CPU Usage:
+----------^
+ 10 |         widget:
+ 11 |             type: glances
+[2024-11-11T05:37:24.129Z] error: <servicesProxy> YAMLException: bad indentation of a mapping entry (10:13)
+
+  7 |     - CPU Usage:
+  8 |         icon: glances-light.png
+  9 |         username: "glance_user"
+ 10 |             password: "Tech7078"
+------------------^
+ 11 |         widget:
+ 12 |             type: glances
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+[2024-11-11T05:37:24.297Z] error: bad indentation of a mapping entry (10:13)
+
+  7 |     - CPU Usage:
+  8 |         icon: glances-light.png
+  9 |         username: "glance_user"
+ 10 |             password: "Tech7078"
+------------------^
+ 11 |         widget:
+ 12 |             type: glances
+[2024-11-11T05:37:25.219Z] error: <credentialedProxyHandler> HTTP Error 401 calling http://10.0.0.103:61208/api/4/quicklook
+[2024-11-11T05:37:25.226Z] error: undefined
+[2024-11-11T05:37:25.234Z] error: undefined
+[2024-11-11T05:37:33.507Z] error: undefined
+[2024-11-11T05:37:33.513Z] error: undefined
+[2024-11-11T05:38:58.188Z] error: undefined
+[2024-11-11T05:38:58.194Z] error: undefined
+[2024-11-11T05:40:24.187Z] error: undefined
+[2024-11-11T05:40:24.199Z] error: undefined
+[2024-11-11T05:40:31.265Z] error: undefined
+[2024-11-11T05:40:31.266Z] error: undefined
+[2024-11-11T05:41:53.014Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:41:53.136Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:41:55.964Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:41:56.412Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:41:59.417Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:42:01.441Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:42:03.450Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:42:05.460Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:42:07.474Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:42:09.482Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:42:11.509Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:42:13.525Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:42:15.544Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:42:17.557Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:42:19.584Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:42:21.596Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:42:23.612Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:42:25.622Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:42:27.631Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:42:28.684Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/network
+[2024-11-11T05:42:28.689Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:42:28.873Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:42:28.878Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/network
+[2024-11-11T05:42:30.220Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:42:30.237Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/network
+[2024-11-11T05:42:33.230Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:42:35.246Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:42:37.256Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:42:39.273Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:42:41.288Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:42:43.296Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:42:45.309Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:42:47.336Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:42:49.350Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:42:51.372Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:42:53.398Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:42:55.415Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:42:57.428Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:42:59.437Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:43:01.443Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:43:03.452Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:43:05.466Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:43:07.478Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:43:09.488Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:43:11.496Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:43:13.549Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:43:16.549Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:43:18.577Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:43:20.374Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:43:20.503Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:43:23.511Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:43:25.529Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:43:27.535Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:43:29.553Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:43:31.570Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:43:33.580Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:43:35.597Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:43:37.617Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:43:39.630Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:43:41.648Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:43:43.659Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:43:45.668Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:43:47.692Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:43:49.703Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:43:51.716Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:43:53.731Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:43:55.747Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:43:57.756Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:43:59.775Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:44:01.789Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:44:03.796Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:44:05.813Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:44:07.825Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:44:09.835Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:44:11.852Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:44:13.860Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:44:15.870Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:44:17.880Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:44:19.904Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:44:21.929Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:44:23.938Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:44:25.949Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/mem
+[2024-11-11T05:45:32.502Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/network
+[2024-11-11T05:45:52.778Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/network
+[2024-11-11T05:45:52.899Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/network
+[2024-11-11T05:45:53.459Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/network
+[2024-11-11T05:46:50.663Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/network
+[2024-11-11T05:46:50.706Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://10.0.0.103:61208/api/3/network
+[2024-11-11T05:50:29.408Z] error: <servicesProxy> YAMLException: bad indentation of a mapping entry (53:27)
+
+ 50 |             username: "glance_user"
+ 51 |             password: "Tech7078"
+ 52 |             version: 4
+ 53 |             metric: sensor: Sensor 1
+--------------------------------^
+ 54 | 
+ 55 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T05:50:29.616Z] error: <servicesProxy> YAMLException: bad indentation of a mapping entry (53:27)
+
+ 50 |             username: "glance_user"
+ 51 |             password: "Tech7078"
+ 52 |             version: 4
+ 53 |             metric: sensor: Sensor 1
+--------------------------------^
+ 54 | 
+ 55 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T05:50:29.625Z] error: <servicesProxy> YAMLException: bad indentation of a mapping entry (53:27)
+
+ 50 |             username: "glance_user"
+ 51 |             password: "Tech7078"
+ 52 |             version: 4
+ 53 |             metric: sensor: Sensor 1
+--------------------------------^
+ 54 | 
+ 55 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T05:50:29.626Z] error: <servicesProxy> YAMLException: bad indentation of a mapping entry (53:27)
+
+ 50 |             username: "glance_user"
+ 51 |             password: "Tech7078"
+ 52 |             version: 4
+ 53 |             metric: sensor: Sensor 1
+--------------------------------^
+ 54 | 
+ 55 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T05:50:29.626Z] error: <servicesProxy> YAMLException: bad indentation of a mapping entry (53:27)
+
+ 50 |             username: "glance_user"
+ 51 |             password: "Tech7078"
+ 52 |             version: 4
+ 53 |             metric: sensor: Sensor 1
+--------------------------------^
+ 54 | 
+ 55 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T05:50:31.635Z] error: <servicesProxy> YAMLException: bad indentation of a mapping entry (53:27)
+
+ 50 |             username: "glance_user"
+ 51 |             password: "Tech7078"
+ 52 |             version: 4
+ 53 |             metric: sensor: Sensor 1
+--------------------------------^
+ 54 | 
+ 55 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T05:50:31.636Z] error: <servicesProxy> YAMLException: bad indentation of a mapping entry (53:27)
+
+ 50 |             username: "glance_user"
+ 51 |             password: "Tech7078"
+ 52 |             version: 4
+ 53 |             metric: sensor: Sensor 1
+--------------------------------^
+ 54 | 
+ 55 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T05:50:31.636Z] error: <servicesProxy> YAMLException: bad indentation of a mapping entry (53:27)
+
+ 50 |             username: "glance_user"
+ 51 |             password: "Tech7078"
+ 52 |             version: 4
+ 53 |             metric: sensor: Sensor 1
+--------------------------------^
+ 54 | 
+ 55 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T05:50:31.636Z] error: <servicesProxy> YAMLException: bad indentation of a mapping entry (53:27)
+
+ 50 |             username: "glance_user"
+ 51 |             password: "Tech7078"
+ 52 |             version: 4
+ 53 |             metric: sensor: Sensor 1
+--------------------------------^
+ 54 | 
+ 55 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T05:50:33.648Z] error: <servicesProxy> YAMLException: bad indentation of a mapping entry (53:27)
+
+ 50 |             username: "glance_user"
+ 51 |             password: "Tech7078"
+ 52 |             version: 4
+ 53 |             metric: sensor: Sensor 1
+--------------------------------^
+ 54 | 
+ 55 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T05:50:33.649Z] error: <servicesProxy> YAMLException: bad indentation of a mapping entry (53:27)
+
+ 50 |             username: "glance_user"
+ 51 |             password: "Tech7078"
+ 52 |             version: 4
+ 53 |             metric: sensor: Sensor 1
+--------------------------------^
+ 54 | 
+ 55 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T05:50:33.649Z] error: <servicesProxy> YAMLException: bad indentation of a mapping entry (53:27)
+
+ 50 |             username: "glance_user"
+ 51 |             password: "Tech7078"
+ 52 |             version: 4
+ 53 |             metric: sensor: Sensor 1
+--------------------------------^
+ 54 | 
+ 55 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T05:50:33.649Z] error: <servicesProxy> YAMLException: bad indentation of a mapping entry (53:27)
+
+ 50 |             username: "glance_user"
+ 51 |             password: "Tech7078"
+ 52 |             version: 4
+ 53 |             metric: sensor: Sensor 1
+--------------------------------^
+ 54 | 
+ 55 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T05:50:35.659Z] error: <servicesProxy> YAMLException: bad indentation of a mapping entry (53:27)
+
+ 50 |             username: "glance_user"
+ 51 |             password: "Tech7078"
+ 52 |             version: 4
+ 53 |             metric: sensor: Sensor 1
+--------------------------------^
+ 54 | 
+ 55 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T05:50:35.660Z] error: <servicesProxy> YAMLException: bad indentation of a mapping entry (53:27)
+
+ 50 |             username: "glance_user"
+ 51 |             password: "Tech7078"
+ 52 |             version: 4
+ 53 |             metric: sensor: Sensor 1
+--------------------------------^
+ 54 | 
+ 55 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T05:50:35.660Z] error: <servicesProxy> YAMLException: bad indentation of a mapping entry (53:27)
+
+ 50 |             username: "glance_user"
+ 51 |             password: "Tech7078"
+ 52 |             version: 4
+ 53 |             metric: sensor: Sensor 1
+--------------------------------^
+ 54 | 
+ 55 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T05:50:35.660Z] error: <servicesProxy> YAMLException: bad indentation of a mapping entry (53:27)
+
+ 50 |             username: "glance_user"
+ 51 |             password: "Tech7078"
+ 52 |             version: 4
+ 53 |             metric: sensor: Sensor 1
+--------------------------------^
+ 54 | 
+ 55 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T05:53:19.099Z] error: <servicesProxy> YAMLException: end of the stream or a document separator is expected (64:1)
+
+ 61 |             metric: process
+ 62 | 
+ 63 | 
+ 64 | - Virtualization:
+------^
+ 65 |     - Proxmox:
+ 66 |         icon: proxmox.png
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readDocument (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2735:5)
+    at loadDocuments (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2778:5)
+    at Object.load$1 [as load] (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2804:19)
+    at servicesFromConfig (/app/.next/server/chunks/3144.js:115:68)
+    at async getServiceItem (/app/.next/server/chunks/3144.js:700:30)
+    at async getServiceWidget (/app/.next/server/chunks/3144.js:727:23)
+    at async handler (/app/.next/server/pages/api/services/proxy.js:408:27)
+    at async Object.apiResolver (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/api-utils/node.js:366:9)
+[2024-11-11T05:53:19.099Z] error: <servicesProxy> YAMLException: end of the stream or a document separator is expected (64:1)
+
+ 61 |             metric: process
+ 62 | 
+ 63 | 
+ 64 | - Virtualization:
+------^
+ 65 |     - Proxmox:
+ 66 |         icon: proxmox.png
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readDocument (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2735:5)
+    at loadDocuments (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2778:5)
+    at Object.load$1 [as load] (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2804:19)
+    at servicesFromConfig (/app/.next/server/chunks/3144.js:115:68)
+    at async getServiceItem (/app/.next/server/chunks/3144.js:700:30)
+    at async getServiceWidget (/app/.next/server/chunks/3144.js:727:23)
+    at async handler (/app/.next/server/pages/api/services/proxy.js:408:27)
+    at async Object.apiResolver (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/api-utils/node.js:366:9)
+[2024-11-11T05:53:19.100Z] error: <servicesProxy> YAMLException: end of the stream or a document separator is expected (64:1)
+
+ 61 |             metric: process
+ 62 | 
+ 63 | 
+ 64 | - Virtualization:
+------^
+ 65 |     - Proxmox:
+ 66 |         icon: proxmox.png
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readDocument (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2735:5)
+    at loadDocuments (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2778:5)
+    at Object.load$1 [as load] (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2804:19)
+    at servicesFromConfig (/app/.next/server/chunks/3144.js:115:68)
+    at async getServiceItem (/app/.next/server/chunks/3144.js:700:30)
+    at async getServiceWidget (/app/.next/server/chunks/3144.js:727:23)
+    at async handler (/app/.next/server/pages/api/services/proxy.js:408:27)
+    at async Object.apiResolver (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/api-utils/node.js:366:9)
+[2024-11-11T05:53:19.113Z] error: <servicesProxy> YAMLException: end of the stream or a document separator is expected (64:1)
+
+ 61 |             metric: process
+ 62 | 
+ 63 | 
+ 64 | - Virtualization:
+------^
+ 65 |     - Proxmox:
+ 66 |         icon: proxmox.png
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readDocument (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2735:5)
+    at loadDocuments (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2778:5)
+    at Object.load$1 [as load] (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2804:19)
+    at servicesFromConfig (/app/.next/server/chunks/3144.js:115:68)
+    at async getServiceItem (/app/.next/server/chunks/3144.js:700:30)
+    at async getServiceWidget (/app/.next/server/chunks/3144.js:727:23)
+    at async handler (/app/.next/server/pages/api/services/proxy.js:408:27)
+    at async Object.apiResolver (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/api-utils/node.js:366:9)
+[2024-11-11T05:53:19.128Z] error: <servicesProxy> YAMLException: end of the stream or a document separator is expected (64:1)
+
+ 61 |             metric: process
+ 62 | 
+ 63 | 
+ 64 | - Virtualization:
+------^
+ 65 |     - Proxmox:
+ 66 |         icon: proxmox.png
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readDocument (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2735:5)
+    at loadDocuments (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2778:5)
+    at Object.load$1 [as load] (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2804:19)
+    at servicesFromConfig (/app/.next/server/chunks/3144.js:115:68)
+    at async getServiceItem (/app/.next/server/chunks/3144.js:700:30)
+    at async getServiceWidget (/app/.next/server/chunks/3144.js:727:23)
+    at async handler (/app/.next/server/pages/api/services/proxy.js:408:27)
+    at async Object.apiResolver (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/api-utils/node.js:366:9)
+[2024-11-11T05:53:19.162Z] error: <servicesProxy> YAMLException: end of the stream or a document separator is expected (64:1)
+
+ 61 |             metric: process
+ 62 | 
+ 63 | 
+ 64 | - Virtualization:
+------^
+ 65 |     - Proxmox:
+ 66 |         icon: proxmox.png
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readDocument (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2735:5)
+    at loadDocuments (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2778:5)
+    at Object.load$1 [as load] (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2804:19)
+    at servicesFromConfig (/app/.next/server/chunks/3144.js:115:68)
+    at async getServiceItem (/app/.next/server/chunks/3144.js:700:30)
+    at async getServiceWidget (/app/.next/server/chunks/3144.js:727:23)
+    at async handler (/app/.next/server/pages/api/services/proxy.js:408:27)
+    at async Object.apiResolver (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/api-utils/node.js:366:9)
+[2024-11-11T05:53:19.228Z] error: end of the stream or a document separator is expected (64:1)
+
+ 61 |             metric: process
+ 62 | 
+ 63 | 
+ 64 | - Virtualization:
+------^
+ 65 |     - Proxmox:
+ 66 |         icon: proxmox.png
+[2024-11-11T05:53:19.230Z] error: <servicesProxy> YAMLException: end of the stream or a document separator is expected (64:1)
+
+ 61 |             metric: process
+ 62 | 
+ 63 | 
+ 64 | - Virtualization:
+------^
+ 65 |     - Proxmox:
+ 66 |         icon: proxmox.png
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readDocument (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2735:5)
+    at loadDocuments (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2778:5)
+    at Object.load$1 [as load] (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2804:19)
+    at servicesFromConfig (/app/.next/server/chunks/3144.js:115:68)
+    at async getServiceItem (/app/.next/server/chunks/3144.js:700:30)
+    at async getServiceWidget (/app/.next/server/chunks/3144.js:727:23)
+    at async handler (/app/.next/server/pages/api/services/proxy.js:408:27)
+    at async Object.apiResolver (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/api-utils/node.js:366:9)
+[2024-11-11T05:53:19.230Z] error: <servicesProxy> YAMLException: end of the stream or a document separator is expected (64:1)
+
+ 61 |             metric: process
+ 62 | 
+ 63 | 
+ 64 | - Virtualization:
+------^
+ 65 |     - Proxmox:
+ 66 |         icon: proxmox.png
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readDocument (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2735:5)
+    at loadDocuments (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2778:5)
+    at Object.load$1 [as load] (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2804:19)
+    at servicesFromConfig (/app/.next/server/chunks/3144.js:115:68)
+    at async getServiceItem (/app/.next/server/chunks/3144.js:700:30)
+    at async getServiceWidget (/app/.next/server/chunks/3144.js:727:23)
+    at async handler (/app/.next/server/pages/api/services/proxy.js:408:27)
+    at async Object.apiResolver (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/api-utils/node.js:366:9)
+[2024-11-11T05:53:19.237Z] error: <servicesProxy> YAMLException: end of the stream or a document separator is expected (64:1)
+
+ 61 |             metric: process
+ 62 | 
+ 63 | 
+ 64 | - Virtualization:
+------^
+ 65 |     - Proxmox:
+ 66 |         icon: proxmox.png
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readDocument (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2735:5)
+    at loadDocuments (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2778:5)
+    at Object.load$1 [as load] (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2804:19)
+    at servicesFromConfig (/app/.next/server/chunks/3144.js:115:68)
+    at async getServiceItem (/app/.next/server/chunks/3144.js:700:30)
+    at async getServiceWidget (/app/.next/server/chunks/3144.js:727:23)
+    at async handler (/app/.next/server/pages/api/services/proxy.js:408:27)
+    at async Object.apiResolver (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/api-utils/node.js:366:9)
+[2024-11-11T05:53:19.240Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T05:53:19.240Z] error: YAMLException: end of the stream or a document separator is expected (64:1)
+
+ 61 |             metric: process
+ 62 | 
+ 63 | 
+ 64 | - Virtualization:
+------^
+ 65 |     - Proxmox:
+ 66 |         icon: proxmox.png
+[2024-11-11T05:53:19.241Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T05:53:19.241Z] error: YAMLException: end of the stream or a document separator is expected (64:1)
+
+ 61 |             metric: process
+ 62 | 
+ 63 | 
+ 64 | - Virtualization:
+------^
+ 65 |     - Proxmox:
+ 66 |         icon: proxmox.png
+[2024-11-11T05:53:19.308Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T05:53:19.308Z] error: YAMLException: end of the stream or a document separator is expected (64:1)
+
+ 61 |             metric: process
+ 62 | 
+ 63 | 
+ 64 | - Virtualization:
+------^
+ 65 |     - Proxmox:
+ 66 |         icon: proxmox.png
+[2024-11-11T05:53:19.421Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T05:53:19.421Z] error: YAMLException: end of the stream or a document separator is expected (64:1)
+
+ 61 |             metric: process
+ 62 | 
+ 63 | 
+ 64 | - Virtualization:
+------^
+ 65 |     - Proxmox:
+ 66 |         icon: proxmox.png
+[2024-11-11T05:53:30.518Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T05:53:30.518Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-11-11T05:53:30.585Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T05:53:30.585Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-11-11T05:53:30.785Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T05:53:30.785Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-11-11T05:53:31.856Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T05:53:31.856Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-11-11T06:11:44.240Z] error: <servicesProxy> TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+    at /app/.next/server/chunks/3144.js:124:60
+    at Array.map (<anonymous>)
+    at servicesFromConfig (/app/.next/server/chunks/3144.js:122:34)
+    at async getServiceItem (/app/.next/server/chunks/3144.js:700:30)
+    at async getServiceWidget (/app/.next/server/chunks/3144.js:727:23)
+    at async handler (/app/.next/server/pages/api/services/proxy.js:408:27)
+    at async Object.apiResolver (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/api-utils/node.js:366:9)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:481:9)
+    at async Object.fn (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:741:37)
+    at async Router.execute (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/router.js:252:36)
+[2024-11-11T06:11:44.240Z] error: <servicesProxy> TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+    at /app/.next/server/chunks/3144.js:124:60
+    at Array.map (<anonymous>)
+    at servicesFromConfig (/app/.next/server/chunks/3144.js:122:34)
+    at async getServiceItem (/app/.next/server/chunks/3144.js:700:30)
+    at async getServiceWidget (/app/.next/server/chunks/3144.js:727:23)
+    at async handler (/app/.next/server/pages/api/services/proxy.js:408:27)
+    at async Object.apiResolver (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/api-utils/node.js:366:9)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:481:9)
+    at async Object.fn (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:741:37)
+    at async Router.execute (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/router.js:252:36)
+[2024-11-11T06:11:44.241Z] error: <servicesProxy> TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+    at /app/.next/server/chunks/3144.js:124:60
+    at Array.map (<anonymous>)
+    at servicesFromConfig (/app/.next/server/chunks/3144.js:122:34)
+    at async getServiceItem (/app/.next/server/chunks/3144.js:700:30)
+    at async getServiceWidget (/app/.next/server/chunks/3144.js:727:23)
+    at async handler (/app/.next/server/pages/api/services/proxy.js:408:27)
+    at async Object.apiResolver (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/api-utils/node.js:366:9)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:481:9)
+    at async Object.fn (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:741:37)
+    at async Router.execute (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/router.js:252:36)
+[2024-11-11T06:11:44.245Z] error: <servicesProxy> TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+    at /app/.next/server/chunks/3144.js:124:60
+    at Array.map (<anonymous>)
+    at servicesFromConfig (/app/.next/server/chunks/3144.js:122:34)
+    at async getServiceItem (/app/.next/server/chunks/3144.js:700:30)
+    at async getServiceWidget (/app/.next/server/chunks/3144.js:727:23)
+    at async handler (/app/.next/server/pages/api/services/proxy.js:408:27)
+    at async Object.apiResolver (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/api-utils/node.js:366:9)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:481:9)
+    at async Object.fn (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:741:37)
+    at async Router.execute (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/router.js:252:36)
+[2024-11-11T06:11:44.246Z] error: <servicesProxy> TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+    at /app/.next/server/chunks/3144.js:124:60
+    at Array.map (<anonymous>)
+    at servicesFromConfig (/app/.next/server/chunks/3144.js:122:34)
+    at async getServiceItem (/app/.next/server/chunks/3144.js:700:30)
+    at async getServiceWidget (/app/.next/server/chunks/3144.js:727:23)
+    at async handler (/app/.next/server/pages/api/services/proxy.js:408:27)
+    at async Object.apiResolver (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/api-utils/node.js:366:9)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:481:9)
+    at async Object.fn (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:741:37)
+    at async Router.execute (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/router.js:252:36)
+[2024-11-11T06:11:44.246Z] error: <servicesProxy> TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+    at /app/.next/server/chunks/3144.js:124:60
+    at Array.map (<anonymous>)
+    at servicesFromConfig (/app/.next/server/chunks/3144.js:122:34)
+    at async getServiceItem (/app/.next/server/chunks/3144.js:700:30)
+    at async getServiceWidget (/app/.next/server/chunks/3144.js:727:23)
+    at async handler (/app/.next/server/pages/api/services/proxy.js:408:27)
+    at async Object.apiResolver (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/api-utils/node.js:366:9)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:481:9)
+    at async Object.fn (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:741:37)
+    at async Router.execute (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/router.js:252:36)
+[2024-11-11T06:11:44.247Z] error: <servicesProxy> TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+    at /app/.next/server/chunks/3144.js:124:60
+    at Array.map (<anonymous>)
+    at servicesFromConfig (/app/.next/server/chunks/3144.js:122:34)
+    at async getServiceItem (/app/.next/server/chunks/3144.js:700:30)
+    at async getServiceWidget (/app/.next/server/chunks/3144.js:727:23)
+    at async handler (/app/.next/server/pages/api/services/proxy.js:408:27)
+    at async Object.apiResolver (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/api-utils/node.js:366:9)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:481:9)
+    at async Object.fn (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:741:37)
+    at async Router.execute (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/router.js:252:36)
+[2024-11-11T06:11:44.250Z] error: <servicesProxy> TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+    at /app/.next/server/chunks/3144.js:124:60
+    at Array.map (<anonymous>)
+    at servicesFromConfig (/app/.next/server/chunks/3144.js:122:34)
+    at async getServiceItem (/app/.next/server/chunks/3144.js:700:30)
+    at async getServiceWidget (/app/.next/server/chunks/3144.js:727:23)
+    at async handler (/app/.next/server/pages/api/services/proxy.js:408:27)
+    at async Object.apiResolver (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/api-utils/node.js:366:9)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:481:9)
+    at async Object.fn (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:741:37)
+    at async Router.execute (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/router.js:252:36)
+[2024-11-11T06:11:44.251Z] error: undefined
+[2024-11-11T06:11:44.251Z] error: <servicesProxy> TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+    at /app/.next/server/chunks/3144.js:124:60
+    at Array.map (<anonymous>)
+    at servicesFromConfig (/app/.next/server/chunks/3144.js:122:34)
+    at async getServiceItem (/app/.next/server/chunks/3144.js:700:30)
+    at async getServiceWidget (/app/.next/server/chunks/3144.js:727:23)
+    at async handler (/app/.next/server/pages/api/services/proxy.js:408:27)
+    at async Object.apiResolver (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/api-utils/node.js:366:9)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:481:9)
+    at async Object.fn (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:741:37)
+    at async Router.execute (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/router.js:252:36)
+[2024-11-11T06:11:44.257Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T06:11:44.257Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-11-11T06:11:44.266Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T06:11:44.266Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-11-11T06:11:44.356Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T06:11:44.357Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-11-11T06:11:45.678Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T06:11:45.678Z] error: TypeError: servicesGroup[Object.keys(...)[0]].map is not a function
+[2024-11-11T06:18:41.653Z] error: <servicesProxy> YAMLException: bad indentation of a mapping entry (70:17)
+
+ 67 |             timezone: America/Los_Angeles
+ 68 |             integrations:
+ 69 |                 - type: ical
+ 70 |                 url: "{{HOMEPAGE_VAR_CALENDAR_U ...
+----------------------^
+ 71 | 
+ 72 | - Virtualization:
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:18:41.660Z] error: <servicesProxy> YAMLException: bad indentation of a mapping entry (70:17)
+
+ 67 |             timezone: America/Los_Angeles
+ 68 |             integrations:
+ 69 |                 - type: ical
+ 70 |                 url: "{{HOMEPAGE_VAR_CALENDAR_U ...
+----------------------^
+ 71 | 
+ 72 | - Virtualization:
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:18:41.696Z] error: <servicesProxy> YAMLException: bad indentation of a mapping entry (70:17)
+
+ 67 |             timezone: America/Los_Angeles
+ 68 |             integrations:
+ 69 |                 - type: ical
+ 70 |                 url: "{{HOMEPAGE_VAR_CALENDAR_U ...
+----------------------^
+ 71 | 
+ 72 | - Virtualization:
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:18:41.696Z] error: <servicesProxy> YAMLException: bad indentation of a mapping entry (70:17)
+
+ 67 |             timezone: America/Los_Angeles
+ 68 |             integrations:
+ 69 |                 - type: ical
+ 70 |                 url: "{{HOMEPAGE_VAR_CALENDAR_U ...
+----------------------^
+ 71 | 
+ 72 | - Virtualization:
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:18:41.697Z] error: <servicesProxy> YAMLException: bad indentation of a mapping entry (70:17)
+
+ 67 |             timezone: America/Los_Angeles
+ 68 |             integrations:
+ 69 |                 - type: ical
+ 70 |                 url: "{{HOMEPAGE_VAR_CALENDAR_U ...
+----------------------^
+ 71 | 
+ 72 | - Virtualization:
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:18:41.724Z] error: <servicesProxy> YAMLException: bad indentation of a mapping entry (70:17)
+
+ 67 |             timezone: America/Los_Angeles
+ 68 |             integrations:
+ 69 |                 - type: ical
+ 70 |                 url: "{{HOMEPAGE_VAR_CALENDAR_U ...
+----------------------^
+ 71 | 
+ 72 | - Virtualization:
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:18:43.659Z] error: <servicesProxy> YAMLException: bad indentation of a mapping entry (70:17)
+
+ 67 |             timezone: America/Los_Angeles
+ 68 |             integrations:
+ 69 |                 - type: ical
+ 70 |                 url: "{{HOMEPAGE_VAR_CALENDAR_U ...
+----------------------^
+ 71 | 
+ 72 | - Virtualization:
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:18:43.663Z] error: <servicesProxy> YAMLException: bad indentation of a mapping entry (70:17)
+
+ 67 |             timezone: America/Los_Angeles
+ 68 |             integrations:
+ 69 |                 - type: ical
+ 70 |                 url: "{{HOMEPAGE_VAR_CALENDAR_U ...
+----------------------^
+ 71 | 
+ 72 | - Virtualization:
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:18:43.686Z] error: <servicesProxy> YAMLException: bad indentation of a mapping entry (70:17)
+
+ 67 |             timezone: America/Los_Angeles
+ 68 |             integrations:
+ 69 |                 - type: ical
+ 70 |                 url: "{{HOMEPAGE_VAR_CALENDAR_U ...
+----------------------^
+ 71 | 
+ 72 | - Virtualization:
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:18:43.687Z] error: <servicesProxy> YAMLException: bad indentation of a mapping entry (70:17)
+
+ 67 |             timezone: America/Los_Angeles
+ 68 |             integrations:
+ 69 |                 - type: ical
+ 70 |                 url: "{{HOMEPAGE_VAR_CALENDAR_U ...
+----------------------^
+ 71 | 
+ 72 | - Virtualization:
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:18:43.687Z] error: <servicesProxy> YAMLException: bad indentation of a mapping entry (70:17)
+
+ 67 |             timezone: America/Los_Angeles
+ 68 |             integrations:
+ 69 |                 - type: ical
+ 70 |                 url: "{{HOMEPAGE_VAR_CALENDAR_U ...
+----------------------^
+ 71 | 
+ 72 | - Virtualization:
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:18:43.687Z] error: bad indentation of a mapping entry (70:17)
+
+ 67 |             timezone: America/Los_Angeles
+ 68 |             integrations:
+ 69 |                 - type: ical
+ 70 |                 url: "{{HOMEPAGE_VAR_CALENDAR_U ...
+----------------------^
+ 71 | 
+ 72 | - Virtualization:
+[2024-11-11T06:18:43.698Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T06:18:43.698Z] error: YAMLException: bad indentation of a mapping entry (70:17)
+
+ 67 |             timezone: America/Los_Angeles
+ 68 |             integrations:
+ 69 |                 - type: ical
+ 70 |                 url: "{{HOMEPAGE_VAR_CALENDAR_U ...
+----------------------^
+ 71 | 
+ 72 | - Virtualization:
+[2024-11-11T06:18:43.699Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T06:18:43.699Z] error: YAMLException: bad indentation of a mapping entry (70:17)
+
+ 67 |             timezone: America/Los_Angeles
+ 68 |             integrations:
+ 69 |                 - type: ical
+ 70 |                 url: "{{HOMEPAGE_VAR_CALENDAR_U ...
+----------------------^
+ 71 | 
+ 72 | - Virtualization:
+[2024-11-11T06:18:43.781Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T06:18:43.781Z] error: YAMLException: bad indentation of a mapping entry (70:17)
+
+ 67 |             timezone: America/Los_Angeles
+ 68 |             integrations:
+ 69 |                 - type: ical
+ 70 |                 url: "{{HOMEPAGE_VAR_CALENDAR_U ...
+----------------------^
+ 71 | 
+ 72 | - Virtualization:
+[2024-11-11T06:19:24.400Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T06:19:24.401Z] error: YAMLException: bad indentation of a mapping entry (70:17)
+
+ 67 |             timezone: America/Los_Angeles
+ 68 |             integrations:
+ 69 |                 - type: ical
+ 70 |                 url: "https://calendar.google.c ...
+----------------------^
+ 71 | 
+ 72 | - Virtualization:
+[2024-11-11T06:19:24.636Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T06:19:24.636Z] error: YAMLException: bad indentation of a mapping entry (70:17)
+
+ 67 |             timezone: America/Los_Angeles
+ 68 |             integrations:
+ 69 |                 - type: ical
+ 70 |                 url: "https://calendar.google.c ...
+----------------------^
+ 71 | 
+ 72 | - Virtualization:
+[2024-11-11T06:19:35.473Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T06:19:35.473Z] error: YAMLException: bad indentation of a mapping entry (70:24)
+
+ 67 |             timezone: America/Los_Angeles
+ 68 |             integrations:
+ 69 |                 - type: ical
+ 70 |                     url: "https://calendar.google.com/ ...
+-----------------------------^
+ 71 | 
+ 72 | - Virtualization:
+[2024-11-11T06:19:35.564Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T06:19:35.565Z] error: YAMLException: bad indentation of a mapping entry (70:24)
+
+ 67 |             timezone: America/Los_Angeles
+ 68 |             integrations:
+ 69 |                 - type: ical
+ 70 |                     url: "https://calendar.google.com/ ...
+-----------------------------^
+ 71 | 
+ 72 | - Virtualization:
+[2024-11-11T06:19:35.717Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T06:19:35.718Z] error: YAMLException: bad indentation of a mapping entry (70:24)
+
+ 67 |             timezone: America/Los_Angeles
+ 68 |             integrations:
+ 69 |                 - type: ical
+ 70 |                     url: "https://calendar.google.com/ ...
+-----------------------------^
+ 71 | 
+ 72 | - Virtualization:
+[2024-11-11T06:19:36.210Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T06:19:36.210Z] error: YAMLException: bad indentation of a mapping entry (70:24)
+
+ 67 |             timezone: America/Los_Angeles
+ 68 |             integrations:
+ 69 |                 - type: ical
+ 70 |                     url: "https://calendar.google.com/ ...
+-----------------------------^
+ 71 | 
+ 72 | - Virtualization:
+[2024-11-11T06:19:36.550Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T06:19:36.550Z] error: YAMLException: bad indentation of a mapping entry (70:24)
+
+ 67 |             timezone: America/Los_Angeles
+ 68 |             integrations:
+ 69 |                 - type: ical
+ 70 |                     url: "https://calendar.google.com/ ...
+-----------------------------^
+ 71 | 
+ 72 | - Virtualization:
+[2024-11-11T06:20:28.010Z] error: <servicesProxy> YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2226:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:20:28.040Z] error: <servicesProxy> YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2226:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:20:28.227Z] error: <servicesProxy> YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2226:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:20:28.248Z] error: <servicesProxy> YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2226:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:20:28.249Z] error: <servicesProxy> YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2226:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:20:28.250Z] error: <servicesProxy> YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2226:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:20:30.023Z] error: <servicesProxy> YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2226:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:20:30.068Z] error: <servicesProxy> YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2226:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:20:30.250Z] error: <servicesProxy> YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2226:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:20:30.267Z] error: <servicesProxy> YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2226:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:20:30.268Z] error: <servicesProxy> YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2226:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:20:30.268Z] error: <servicesProxy> YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2226:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:20:32.040Z] error: <servicesProxy> YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2226:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:20:32.084Z] error: <servicesProxy> YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2226:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:20:32.271Z] error: <servicesProxy> YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2226:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:20:32.276Z] error: <servicesProxy> YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2226:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:20:32.276Z] error: <servicesProxy> YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2226:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:20:32.277Z] error: <servicesProxy> YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2226:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:20:34.061Z] error: <servicesProxy> YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2226:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:20:34.091Z] error: <servicesProxy> YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2226:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:20:34.293Z] error: <servicesProxy> YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2226:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:20:34.293Z] error: <servicesProxy> YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2226:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:20:34.294Z] error: <servicesProxy> YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2226:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:20:34.295Z] error: <servicesProxy> YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2226:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:20:36.074Z] error: <servicesProxy> YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2226:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:20:36.117Z] error: <servicesProxy> YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2226:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:20:36.319Z] error: <servicesProxy> YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2226:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:20:36.320Z] error: <servicesProxy> YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2226:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:20:36.320Z] error: <servicesProxy> YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2226:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:20:36.321Z] error: <servicesProxy> YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2226:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:20:37.563Z] error: <servicesProxy> YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2226:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:20:37.564Z] error: <servicesProxy> YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2226:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:20:37.565Z] error: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+[2024-11-11T06:20:37.568Z] error: <servicesProxy> YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2226:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:20:37.573Z] error: <servicesProxy> YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2226:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2024-11-11T06:20:37.573Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T06:20:37.573Z] error: YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+[2024-11-11T06:20:37.575Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T06:20:37.575Z] error: YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+[2024-11-11T06:20:37.678Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T06:20:37.679Z] error: YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+[2024-11-11T06:20:37.798Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T06:20:37.798Z] error: YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+[2024-11-11T06:20:38.484Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T06:20:38.484Z] error: YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+[2024-11-11T06:20:38.959Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T06:20:38.959Z] error: YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+[2024-11-11T06:20:39.179Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T06:20:39.179Z] error: YAMLException: can not read an implicit mapping pair; a colon is missed (84:14)
+
+ 81 |             url: "https://10.0.0.103:8006"
+ 82 |             username: "api@pam!homepage"
+ 83 |             password: "5cf0ee77-fb58-4f47-9f ...
+ 84 |             n
+-------------------^
+ 85 | 
+ 86 | 
+[2024-11-11T07:05:51.013Z] error: duplicated mapping key (72:13)
+
+ 69 |                 - type: ical
+ 70 |                   url: "https://calendar.go ...
+ 71 |                   color: blue
+ 72 |             integrations:
+------------------^
+ 73 |                 - type: ical
+ 74 |                   url: https://calendar.goo ...
+[2024-11-11T07:05:51.014Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T07:05:51.014Z] error: YAMLException: duplicated mapping key (72:13)
+
+ 69 |                 - type: ical
+ 70 |                   url: "https://calendar.go ...
+ 71 |                   color: blue
+ 72 |             integrations:
+------------------^
+ 73 |                 - type: ical
+ 74 |                   url: https://calendar.goo ...
+[2024-11-11T07:05:51.016Z] error: <servicesProxy> YAMLException: duplicated mapping key (72:13)
+
+ 69 |                 - type: ical
+ 70 |                   url: "https://calendar.go ...
+ 71 |                   color: blue
+ 72 |             integrations:
+------------------^
+ 73 |                 - type: ical
+ 74 |                   url: https://calendar.goo ...
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at storeMappingPair (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1448:7)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2263:9)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+[2024-11-11T07:05:51.018Z] error: <servicesProxy> YAMLException: duplicated mapping key (72:13)
+
+ 69 |                 - type: ical
+ 70 |                   url: "https://calendar.go ...
+ 71 |                   color: blue
+ 72 |             integrations:
+------------------^
+ 73 |                 - type: ical
+ 74 |                   url: https://calendar.goo ...
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at storeMappingPair (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1448:7)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2263:9)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+[2024-11-11T07:05:51.020Z] error: <servicesProxy> YAMLException: duplicated mapping key (72:13)
+
+ 69 |                 - type: ical
+ 70 |                   url: "https://calendar.go ...
+ 71 |                   color: blue
+ 72 |             integrations:
+------------------^
+ 73 |                 - type: ical
+ 74 |                   url: https://calendar.goo ...
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at storeMappingPair (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1448:7)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2263:9)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+[2024-11-11T07:05:51.022Z] error: <servicesProxy> YAMLException: duplicated mapping key (72:13)
+
+ 69 |                 - type: ical
+ 70 |                   url: "https://calendar.go ...
+ 71 |                   color: blue
+ 72 |             integrations:
+------------------^
+ 73 |                 - type: ical
+ 74 |                   url: https://calendar.goo ...
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at storeMappingPair (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1448:7)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2263:9)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+[2024-11-11T07:05:51.023Z] error: <servicesProxy> YAMLException: duplicated mapping key (72:13)
+
+ 69 |                 - type: ical
+ 70 |                   url: "https://calendar.go ...
+ 71 |                   color: blue
+ 72 |             integrations:
+------------------^
+ 73 |                 - type: ical
+ 74 |                   url: https://calendar.goo ...
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at storeMappingPair (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1448:7)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2263:9)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+[2024-11-11T07:05:51.023Z] error: <servicesProxy> YAMLException: duplicated mapping key (72:13)
+
+ 69 |                 - type: ical
+ 70 |                   url: "https://calendar.go ...
+ 71 |                   color: blue
+ 72 |             integrations:
+------------------^
+ 73 |                 - type: ical
+ 74 |                   url: https://calendar.goo ...
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at storeMappingPair (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1448:7)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2263:9)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+[2024-11-11T07:05:51.028Z] error: <servicesProxy> YAMLException: duplicated mapping key (72:13)
+
+ 69 |                 - type: ical
+ 70 |                   url: "https://calendar.go ...
+ 71 |                   color: blue
+ 72 |             integrations:
+------------------^
+ 73 |                 - type: ical
+ 74 |                   url: https://calendar.goo ...
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at storeMappingPair (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1448:7)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2263:9)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+[2024-11-11T07:05:51.028Z] error: <servicesProxy> YAMLException: duplicated mapping key (72:13)
+
+ 69 |                 - type: ical
+ 70 |                   url: "https://calendar.go ...
+ 71 |                   color: blue
+ 72 |             integrations:
+------------------^
+ 73 |                 - type: ical
+ 74 |                   url: https://calendar.goo ...
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at storeMappingPair (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1448:7)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2263:9)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+[2024-11-11T07:05:51.030Z] error: <servicesProxy> YAMLException: duplicated mapping key (72:13)
+
+ 69 |                 - type: ical
+ 70 |                   url: "https://calendar.go ...
+ 71 |                   color: blue
+ 72 |             integrations:
+------------------^
+ 73 |                 - type: ical
+ 74 |                   url: https://calendar.goo ...
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at storeMappingPair (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1448:7)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2263:9)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+[2024-11-11T07:05:51.031Z] error: <servicesProxy> YAMLException: duplicated mapping key (72:13)
+
+ 69 |                 - type: ical
+ 70 |                   url: "https://calendar.go ...
+ 71 |                   color: blue
+ 72 |             integrations:
+------------------^
+ 73 |                 - type: ical
+ 74 |                   url: https://calendar.goo ...
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at storeMappingPair (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1448:7)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2263:9)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+[2024-11-11T07:05:51.032Z] error: <servicesProxy> YAMLException: duplicated mapping key (72:13)
+
+ 69 |                 - type: ical
+ 70 |                   url: "https://calendar.go ...
+ 71 |                   color: blue
+ 72 |             integrations:
+------------------^
+ 73 |                 - type: ical
+ 74 |                   url: https://calendar.goo ...
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at storeMappingPair (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1448:7)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2263:9)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+[2024-11-11T07:05:51.037Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T07:05:51.037Z] error: YAMLException: duplicated mapping key (72:13)
+
+ 69 |                 - type: ical
+ 70 |                   url: "https://calendar.go ...
+ 71 |                   color: blue
+ 72 |             integrations:
+------------------^
+ 73 |                 - type: ical
+ 74 |                   url: https://calendar.goo ...
+[2024-11-11T07:05:51.148Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T07:05:51.148Z] error: YAMLException: duplicated mapping key (72:13)
+
+ 69 |                 - type: ical
+ 70 |                   url: "https://calendar.go ...
+ 71 |                   color: blue
+ 72 |             integrations:
+------------------^
+ 73 |                 - type: ical
+ 74 |                   url: https://calendar.goo ...
+[2024-11-11T07:05:52.019Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T07:05:52.019Z] error: YAMLException: duplicated mapping key (72:13)
+
+ 69 |                 - type: ical
+ 70 |                   url: "https://calendar.go ...
+ 71 |                   color: blue
+ 72 |             integrations:
+------------------^
+ 73 |                 - type: ical
+ 74 |                   url: https://calendar.goo ...
+[2024-11-11T07:05:52.526Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T07:05:52.527Z] error: YAMLException: duplicated mapping key (72:13)
+
+ 69 |                 - type: ical
+ 70 |                   url: "https://calendar.go ...
+ 71 |                   color: blue
+ 72 |             integrations:
+------------------^
+ 73 |                 - type: ical
+ 74 |                   url: https://calendar.goo ...
+[2024-11-11T07:05:52.849Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T07:05:52.849Z] error: YAMLException: duplicated mapping key (72:13)
+
+ 69 |                 - type: ical
+ 70 |                   url: "https://calendar.go ...
+ 71 |                   color: blue
+ 72 |             integrations:
+------------------^
+ 73 |                 - type: ical
+ 74 |                   url: https://calendar.goo ...
+[2024-11-11T07:05:53.040Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T07:05:53.040Z] error: YAMLException: duplicated mapping key (72:13)
+
+ 69 |                 - type: ical
+ 70 |                   url: "https://calendar.go ...
+ 71 |                   color: blue
+ 72 |             integrations:
+------------------^
+ 73 |                 - type: ical
+ 74 |                   url: https://calendar.goo ...
+[2024-11-11T07:05:53.208Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T07:05:53.208Z] error: YAMLException: duplicated mapping key (72:13)
+
+ 69 |                 - type: ical
+ 70 |                   url: "https://calendar.go ...
+ 71 |                   color: blue
+ 72 |             integrations:
+------------------^
+ 73 |                 - type: ical
+ 74 |                   url: https://calendar.goo ...
+[2024-11-11T07:05:53.983Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T07:05:53.983Z] error: YAMLException: duplicated mapping key (72:13)
+
+ 69 |                 - type: ical
+ 70 |                   url: "https://calendar.go ...
+ 71 |                   color: blue
+ 72 |             integrations:
+------------------^
+ 73 |                 - type: ical
+ 74 |                   url: https://calendar.goo ...
+[2024-11-11T07:06:05.224Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T07:06:05.224Z] error: YAMLException: duplicated mapping key (72:13)
+
+ 69 |                 - type: ical
+ 70 |                   url: "https://calendar.go ...
+ 71 |                   color: blue
+ 72 |             integrations:
+------------------^
+ 73 |                 - type: ical
+ 74 |                   url: https://calendar.goo ...
+[2024-11-11T07:06:05.487Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T07:06:05.487Z] error: YAMLException: duplicated mapping key (72:13)
+
+ 69 |                 - type: ical
+ 70 |                   url: "https://calendar.go ...
+ 71 |                   color: blue
+ 72 |             integrations:
+------------------^
+ 73 |                 - type: ical
+ 74 |                   url: https://calendar.goo ...
+[2024-11-11T07:06:06.798Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T07:06:06.798Z] error: YAMLException: duplicated mapping key (73:13)
+
+ 70 |                   url: "https://calendar.go ...
+ 71 |                   color: blue
+ 72 |                   
+ 73 |             integrations:
+------------------^
+ 74 |                 - type: ical
+ 75 |                   url: https://calendar.goo ...
+[2024-11-11T07:06:06.849Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T07:06:06.849Z] error: YAMLException: duplicated mapping key (73:13)
+
+ 70 |                   url: "https://calendar.go ...
+ 71 |                   color: blue
+ 72 |                   
+ 73 |             integrations:
+------------------^
+ 74 |                 - type: ical
+ 75 |                   url: https://calendar.goo ...
+[2024-11-11T07:06:07.034Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T07:06:07.034Z] error: YAMLException: duplicated mapping key (73:13)
+
+ 70 |                   url: "https://calendar.go ...
+ 71 |                   color: blue
+ 72 |                   
+ 73 |             integrations:
+------------------^
+ 74 |                 - type: ical
+ 75 |                   url: https://calendar.goo ...
+[2024-11-11T07:06:07.392Z] error: Failed to load services.yaml, please check for errors
+[2024-11-11T07:06:07.392Z] error: YAMLException: duplicated mapping key (73:13)
+
+ 70 |                   url: "https://calendar.go ...
+ 71 |                   color: blue
+ 72 |                   
+ 73 |             integrations:
+------------------^
+ 74 |                 - type: ical
+ 75 |                   url: https://calendar.goo ...

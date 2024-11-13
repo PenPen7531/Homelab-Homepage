@@ -27,6 +27,14 @@
     longitude: -122.7822
     units: metric
 
+- stocks:
+    provider: finnhub
+    watchlist: 
+        - MSFT
+        - NVDA
+        - AAPL
+        - MZDAY
+        - HMC
 
 # For top search bar sys info
 # - glances:

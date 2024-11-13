@@ -5,11 +5,17 @@
 title: Homelab Homepage
 
 theme: dark
-color: slate
+color: gray
+
+background:
+  image: /icons/rx7.jpg
+  brightness: 100
+  opacity: 10
 
 providers:
   openweathermap: openweathermapapikey
   weatherapi: weatherapiapikey
+  finnhub: "{{HOMEPAGE_VAR_FINNHUB_KEY}}"
 
 layout:
   Machine Information:
